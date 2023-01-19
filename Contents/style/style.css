@@ -1,35 +1,3 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:	Coloris
-Version:	1.0
-Last change:	06/08/14
-Assigned to:	Alexey Shestakov
-Primary use:	Portfolio 
-
-[Table of contents]
-
-1. Body
-	1. Link
-	2. Preloader / #preloader
-	3. Title / .title
-	4. Buttons / .button
-2. Header / .header
-	1. Search / .header-search
-	2. Navigation / .navbar
-3. Big Slider / .big-slider
-4. About / .about
-5. Video / .video
-6. Service / .service
-7. Facts / .facts
-8. Works / .works
-9. Clients Feedback / .clients-feedback
-10. Cleants Logo / .cleants-logo
-11. Twitter / .twitter
-12. Team / .team
-12. Contact / .contact
-13. Footer Link / .soc-block
--------------------------------------------------------------------*/
 *{
 	margin: 0;
 	padding: 0;
