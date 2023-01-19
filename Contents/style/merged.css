@@ -161,7 +161,7 @@ button::-moz-focus-inner {
     color: #fff;
     font-style: normal;
     font-size: 28px;
-    font-family: Arial, Baskerville, monospace
+    font-family: Poppins,sans-serif;
 }
 
 .mfp-close:focus,
@@ -3435,7 +3435,7 @@ screen and (max-height:300px) {
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     background-color: transparent;
     text-decoration: none;
     text-transform: uppercase;
@@ -3466,7 +3466,7 @@ screen and (max-height:300px) {
     font-size: 37px;
     line-height: 37px;
     font-weight: 300;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     background-color: transparent;
     text-decoration: none;
     text-transform: uppercase;
@@ -3480,7 +3480,7 @@ screen and (max-height:300px) {
     font-size: 25px;
     line-height: 25px;
     font-weight: 800;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -3513,7 +3513,7 @@ screen and (max-height:300px) {
     font-size: 25px;
     line-height: 25px;
     font-weight: 300;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     background-color: transparent;
     text-decoration: none;
     text-transform: uppercase;
@@ -3527,7 +3527,7 @@ screen and (max-height:300px) {
     font-size: 13px;
     line-height: 25px;
     font-weight: 400;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -3560,7 +3560,7 @@ screen and (max-height:300px) {
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     background-color: rgba(0, 0, 0, 0);
     text-decoration: none;
     text-transform: uppercase;
@@ -3576,7 +3576,7 @@ screen and (max-height:300px) {
     font-size: 34px;
     line-height: 34px;
     font-weight: 300;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     background-color: rgba(0, 0, 0, 0);
     text-decoration: none;
     text-transform: uppercase;
@@ -3592,7 +3592,7 @@ screen and (max-height:300px) {
     font-weight: 400;
     font-size: 150px;
     line-height: 130px;
-    font-family: Oswald, sans-serif;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3607,7 +3607,7 @@ screen and (max-height:300px) {
     font-weight: 600;
     font-size: 50px;
     line-height: 50px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Poppins,sans-serif;-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3620,7 +3620,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 90px;
     line-height: 90px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Poppins,sans-serif;-serif;
     margin: 0;
     letter-spacing: 20px;
     border-width: 0;
@@ -3634,7 +3634,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 70px;
     line-height: 70px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3647,7 +3647,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 40px;
     line-height: 40px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     margin: 0;
     letter-spacing: 5px;
     border-width: 0;
@@ -3662,7 +3662,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 20px;
     line-height: 20px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     padding: 2px 4px;
     margin: 0;
     border-width: 0;
@@ -3678,7 +3678,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 14px;
     line-height: 20px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3692,7 +3692,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 20px;
     line-height: 20px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3703,7 +3703,7 @@ screen and (max-height:300px) {
     font-size: 55px;
     line-height: 65px;
     font-weight: 700;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -3718,7 +3718,7 @@ screen and (max-height:300px) {
     font-size: 25px;
     line-height: 25px;
     font-weight: 600;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -3736,7 +3736,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 40px;
     line-height: 40px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3747,7 +3747,7 @@ screen and (max-height:300px) {
     font-size: 30px;
     line-height: 30px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #666;
     text-decoration: none;
     background-color: transparent;
@@ -3766,7 +3766,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 60px;
     line-height: 60px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3781,7 +3781,7 @@ screen and (max-height:300px) {
     font-weight: 800;
     font-size: 60px;
     line-height: 60px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3798,7 +3798,7 @@ screen and (max-height:300px) {
     font-weight: 700;
     font-size: 60px;
     line-height: 60px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3815,7 +3815,7 @@ screen and (max-height:300px) {
     font-weight: 800;
     font-size: 24px;
     line-height: 20px;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3829,7 +3829,7 @@ screen and (max-height:300px) {
     font-weight: 800;
     font-size: 24px;
     line-height: 20px;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3843,7 +3843,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 24px;
     line-height: 20px;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3857,7 +3857,7 @@ screen and (max-height:300px) {
     font-weight: 800;
     font-size: 30px;
     line-height: 36px;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     padding: 3px 10px;
     margin: 0;
     border-width: 0;
@@ -3873,7 +3873,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 30px;
     line-height: 36px;
-    font-family: \"Open Sans\", sans-serif;
+    font-family: Poppins,sans-serif;
     padding: 3px 10px;
     padding-top: 1px;
     margin: 0;
@@ -3889,7 +3889,7 @@ screen and (max-height:300px) {
     text-shadow: none;
     font-size: 14px;
     line-height: 22px;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     margin: 0;
     border-width: 0;
     border-style: none;
@@ -3931,7 +3931,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 30px;
     line-height: 30px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     background-color: transparent
 }
 
@@ -3942,7 +3942,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 16px;
     line-height: 26px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     background-color: transparent
 }
 
@@ -3960,7 +3960,7 @@ screen and (max-height:300px) {
     font-size: 30px;
     line-height: 75px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #000;
@@ -3977,7 +3977,7 @@ screen and (max-height:300px) {
     font-size: 50px;
     line-height: 70px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #000;
@@ -3995,7 +3995,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 50px;
     line-height: 70px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     background-color: #db4360;
     padding: 0 20px;
     -webkit-border-radius: 0;
@@ -4010,7 +4010,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 50px;
     line-height: 70px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     background-color: #fff;
     padding: 0 20px;
     -webkit-border-radius: 0;
@@ -4025,7 +4025,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 50px;
     line-height: 70px;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     background-color: #67ae73;
     padding: 0 20px;
     -webkit-border-radius: 0;
@@ -4037,7 +4037,7 @@ screen and (max-height:300px) {
     font-size: 36px;
     line-height: 36px;
     font-weight: 700;
-    font-family: Arial;
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: rgba(0, 0, 0, 1);
@@ -4057,7 +4057,7 @@ screen and (max-height:300px) {
     font-size: 60px;
     line-height: 60px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #666;
     text-decoration: none;
     background-color: transparent;
@@ -4073,7 +4073,7 @@ screen and (max-height:300px) {
     font-size: 34px;
     line-height: 30px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #666;
     text-decoration: none;
     background-color: transparent;
@@ -4089,7 +4089,7 @@ screen and (max-height:300px) {
     font-size: 18px;
     line-height: 26px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #757575;
     text-decoration: none;
     background-color: transparent;
@@ -4117,7 +4117,7 @@ screen and (max-height:300px) {
     font-size: 58px;
     line-height: 60px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #34495e;
     text-decoration: none;
     background-color: transparent;
@@ -4130,7 +4130,7 @@ screen and (max-height:300px) {
     font-size: 20px;
     line-height: 20px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #34495e;
@@ -4144,7 +4144,7 @@ screen and (max-height:300px) {
     font-size: 24px;
     line-height: 30px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #e33a0c;
     text-decoration: none;
     background-color: transparent;
@@ -4158,7 +4158,7 @@ screen and (max-height:300px) {
     font-size: 21px;
     line-height: 26px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #e33a0c;
     text-decoration: none;
     background-color: transparent;
@@ -4172,7 +4172,7 @@ screen and (max-height:300px) {
     font-size: 20px;
     line-height: 20px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #e33a0c;
@@ -4186,7 +4186,7 @@ screen and (max-height:300px) {
     font-size: 24px;
     line-height: 30px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #f39c12;
     text-decoration: none;
     background-color: transparent;
@@ -4199,7 +4199,7 @@ screen and (max-height:300px) {
     font-size: 20px;
     line-height: 20px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #f39c12;
@@ -4223,7 +4223,7 @@ screen and (max-height:300px) {
     font-size: 58px;
     line-height: 60px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -4236,7 +4236,7 @@ screen and (max-height:300px) {
     font-size: 30px;
     line-height: 36px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -4250,7 +4250,7 @@ screen and (max-height:300px) {
     font-size: 34px;
     line-height: 40px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -4264,7 +4264,7 @@ screen and (max-height:300px) {
     font-size: 34px;
     line-height: 40px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -4279,7 +4279,7 @@ screen and (max-height:300px) {
     font-size: 20px;
     line-height: 20px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #7f8c8d;
@@ -4293,7 +4293,7 @@ screen and (max-height:300px) {
     font-size: 30px;
     line-height: 36px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #000;
     text-decoration: none;
     background-color: transparent;
@@ -4307,7 +4307,7 @@ screen and (max-height:300px) {
     font-size: 58px;
     line-height: 60px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #000;
     text-decoration: none;
     background-color: transparent;
@@ -4320,7 +4320,7 @@ screen and (max-height:300px) {
     font-size: 34px;
     line-height: 40px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #34495e;
     text-decoration: none;
     background-color: transparent;
@@ -4334,7 +4334,7 @@ screen and (max-height:300px) {
     font-size: 17px;
     line-height: 28px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: transparent;
@@ -4354,7 +4354,7 @@ screen and (max-height:300px) {
     font-size: 40px;
     line-height: 40px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #000;
@@ -4368,7 +4368,7 @@ screen and (max-height:300px) {
     font-size: 30px;
     line-height: 30px;
     font-weight: 300;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #000;
     text-decoration: none;
     background-color: #fff;
@@ -4383,7 +4383,7 @@ screen and (max-height:300px) {
     font-size: 20px;
     line-height: 20px;
     font-weight: 800;
-    font-family: \"Open Sans\";
+    font-family: Poppins,sans-serif;
     color: #fff;
     text-decoration: none;
     background-color: #f39c12;
@@ -4405,7 +4405,7 @@ screen and (max-height:300px) {
     font-weight: 300;
     font-size: 19px;
     line-height: 19px;
-    font-family: 'Open Sans', sans
+    font-family: Poppins,sans-serif;
 }
 
 .tp-caption.noshadow {
@@ -4475,7 +4475,7 @@ screen and (max-height:300px) {
     font-size: 15px;
     line-height: 45px !important;
     background: url(../images/gradient/g30.png) repeat-x top;
-    font-family: arial, sans-serif;
+       font-family: Poppins,sans-serif;
     font-weight: 700;
     letter-spacing: -1px
 }
