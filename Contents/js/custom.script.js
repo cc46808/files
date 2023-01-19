@@ -42,7 +42,7 @@
 	/*----------  //PRELOADER  ----------*/
 
 	/*----------  NAVIGATION ON PAGE  ----------*/
-	$.scrollIt();
+	$.scrollIt({topOffset: 150, easing: 'linear', scrollTime: 600, upKey: 38, downKey: 40 });
 	/*----------  //NAVIGATION ON PAGE  ----------*/
 
 	$('.images-bg').each(function(){
