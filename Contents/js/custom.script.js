@@ -30,15 +30,15 @@
 	setTimeout(function(){
 		$('#preloader').animate({'opacity' : '0'},0,function(){
 			$('#preloader').hide();
-			if(0 < $(window).scrollTop()){				
+			if(1000 < $(window).scrollTop()){				
 				setTimeout(function(){
 					scrolling();
-				}, 0)
+				}, 1000)
 			}	
 		});
 
-		$('.page-wrapper').animate({'opacity' : '1'},0);
-	},0)
+		$('.page-wrapper').animate({'opacity' : '1'},1000);
+	},2000)
 	/*----------  //PRELOADER  ----------*/
 	
 	/*----------  FUNCTION FOR SWITCH THEME COLOR  ----------*/
