@@ -158,8 +158,8 @@ a:hover{
 .button.var2:active,
 .button.var2:focus,
 .button.var2:hover{
-	border: 2px solid #fa3f20;
-	background: #fa3f20;
+	border: 2px solid #d7233c;
+	background: #d7233c;
 	color: #fff;
 }
 
@@ -169,7 +169,7 @@ a:hover{
 	display: inline-block;
 	vertical-align: middle;
 	border-radius: 50%;
-	background: #fa3f20;
+	background: #d7233c;
 	color: #fff;
 	line-height: 70px;
 	text-align: center;
@@ -183,7 +183,7 @@ a:hover{
 	transition: all 0.1s linear !important;
 }
 .circle-button:after {
-    border: 1px solid #fa3f20;
+    border: 1px solid #d7233c;
     border-radius: 50%;
     content: "";
     height: 80px;
