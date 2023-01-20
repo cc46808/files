@@ -183,7 +183,7 @@ a:hover{
 	transition: all 0.1s linear !important;
 }
 .circle-button:after {
-    border: 1px solid #d7233c;
+    border: 1px solid #d7233c !important;
     border-radius: 50%;
     content: "";
     height: 80px;
