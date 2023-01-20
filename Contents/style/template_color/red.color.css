@@ -13,7 +13,7 @@
 .red .blog-block .dots em,
 .red .page-name,
 .red .comments-title .dots em {
-	background-color: #fa3f20;
+	background-color: #d7233c;
 }
 
 .red a.active,
@@ -48,7 +48,7 @@
 .red .blog-menu a:hover,
 .red .small-post:hover .name,
 .red .tags-wrapper a:hover {
-	color: #fa3f20;
+	color: #d7233c;
 }
 
 .red .button.var2:active,
@@ -56,11 +56,11 @@
 .red .button.var2:hover,
 .red .circle-button:after,
 .red .team-block:hover .soc-button {
-	border-color: #fa3f20;
+	border-color: #d7233c;
 }
 
 .red .blog-menu a:hover {
-	border-left-color: #fa3f20;
+	border-left-color: #d7233c;
 }
 
 .red .dropdown-menu>li>a:hover:before,
@@ -71,17 +71,17 @@
 .red .blog-left-side .form-control:focus,
 .red .leave-comment input:focus,
 .red .leave-comment textarea:focus {
-	box-shadow: 0 0 0 2px #fa3f20 inset;
+	box-shadow: 0 0 0 2px #d7233c inset;
 }
 
 .red .about-block:hover .text:before {
-	box-shadow: 0 0 0 10px #fa3f20 inset;
+	box-shadow: 0 0 0 10px #d7233c inset;
 }
 
 .red .single-work .flex-control-nav a.flex-active,
 .red .team-slider .flex-control-nav a.flex-active,
 .red .blog-content .flex-control-nav a.flex-active {
-	box-shadow: 0 0 0 12px #fa3f20 inset;
+	box-shadow: 0 0 0 12px #d7233c inset;
 }
 
 .red .circle-button:active,
