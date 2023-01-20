@@ -25,7 +25,7 @@ a:focus{
 }
 a.active,
 a:hover{
-	color: #fa3f20;
+	color: #d7233c;
 }
 /*------  //LINK STYLE  ------*/
 
@@ -113,7 +113,7 @@ a:hover{
 			height: 5px;
 			border-radius: 50%;
 			margin: 0 2px;
-			background: #fa3f20;
+			background: #d7233c;
 		}
 /*------ //TITLE ------*/
 
@@ -123,7 +123,7 @@ a:hover{
     height: 50px;
     border-radius: 5px;
     color: #fff;
-    background: #fa3f20;
+    background: #d7233c;
     display: inline-block;
     line-height: 50px;
     text-transform: uppercase;
@@ -313,7 +313,7 @@ a:hover{
 		margin-left: 5px;
 	}
 	.header-search .btn-group .btn:hover span{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.header-search .btn-group .dropdown-menu{
 		background: #f7f7f7;
@@ -331,7 +331,7 @@ a:hover{
 		color: #999;
 	}
 	.header-search .soc-icons a:hover{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.header-search .form-control{
 		width: 79px;
@@ -426,12 +426,12 @@ a:hover{
 	.navbar-default .navbar-nav > .open > a:hover, 
 	.navbar-default .navbar-nav > .open > a:focus{
 		background: none;
-		color: #fa3f20;
+		color: #d7233c;
 		border-right: 1px solid #e6e6e6;
 	}
 	.navbar-default .navbar-nav > li > a:hover, 
 	.navbar-default .navbar-nav > li > a:focus{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 .navbar-default .navbar-brand {
     color: #333;
@@ -442,7 +442,7 @@ a:hover{
     text-transform: uppercase;
 }
 	.navbar-default .navbar-brand span{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 .dropdown-menu{
 	padding: 0;
@@ -490,7 +490,7 @@ a:hover{
 		color: #333;
 	}
 	.dropdown-menu > li > a:hover:before{
-		box-shadow: 0 0 0 2px #fa3f20 inset;
+		box-shadow: 0 0 0 2px #d7233c inset;
 	}
 	/*------ //HEADER MENU ------*/
 /*------ //HEADER ------*/
@@ -504,7 +504,7 @@ a:hover{
 	background: none;
 }
 .slider-logo .tp-splitted:nth-child(2){
-	color: #fa3f20;
+	color: #d7233c;
 }
 .tp-caption .circle-button{
 	color: #fff !important;
@@ -566,7 +566,7 @@ a:hover{
 	.about-block em{
 		font-size: 70px;
 		line-height: 74px;
-		color: #fa3f20;
+		color: #d7233c;
 		margin-top: 15px;
 	}
 	.about-block .name{
@@ -627,13 +627,13 @@ a:hover{
 		transition: all 0.3s ease;
 	}
 	.about-block:hover .name{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.about-block:hover .text p{
 		height: 0;
 	}
 	.about-block:hover .text:before{
-		box-shadow: 0 0 0 10px #fa3f20 inset;
+		box-shadow: 0 0 0 10px #d7233c inset;
 		color: #fff;
 	}
 /*------ //ABOUT ------*/
@@ -674,7 +674,7 @@ a:hover{
 		color: #666;
 	}
 	.video .fa-pause:hover{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.video .container{
 		position: relative;
@@ -706,7 +706,7 @@ a:hover{
 	.services-block em{
 		font-size: 40px;
 		line-height: 40px;
-		color: #fa3f20;
+		color: #d7233c;
 		margin-top: 16px;
 		margin-bottom: 10px;
 	}
@@ -745,10 +745,10 @@ a:hover{
 		color: #666;
 	}
 	.services-block:hover .name{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.services-block:hover .dots em{
-		background: #fa3f20;
+		background: #d7233c;
 	}
 /*------ //SERVICES ------*/
 
@@ -771,7 +771,7 @@ a:hover{
 		top: 0;
 		line-height: 82px;
 		font-size: 70px;
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.fact-block .name{
 		font-size: 22px;
@@ -853,7 +853,7 @@ a:hover{
 		transition: all 0.3s ease;
 	}
 	.work-block .zoom{
-		background: #fa3f20;
+		background: #d7233c;
 		display: block;
 	}	
 	.work-block:hover .zoom img{
@@ -974,7 +974,7 @@ a:hover{
 		margin: 0 10px;
 	}
 	.feedback-block .position{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.feedback-block .dots{
 		width: 5px;
@@ -994,7 +994,7 @@ a:hover{
 		width: 0;
 		left: 0;
 		bottom: -3px;
-		background-color: #fa3f20;
+		background-color: #d7233c;
 	    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.3) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
 	    background-size: 15px 15px;
 
@@ -1048,7 +1048,7 @@ a:hover{
 
 /*------ TWITTER ------*/
 .twitter{
-	background: #fa3f20;
+	background: #d7233c;
 	text-align: center;
 	padding-bottom: 130px;
 	position: relative;
@@ -1153,13 +1153,13 @@ a:hover{
 			margin: 0 18px;
 		}	
 		.team-block .soc-button a:hover{
-			color: #fa3f20;
+			color: #d7233c;
 		}
 	.team-block .image-wrapper{
 		position: relative;
 		overflow: hidden;
 		border-radius: 0;
-		background: #fa3f20;
+		background: #d7233c;
 
 		-webkit-transition: all 0.3s ease;
 	    -moz-transition: all 0.3s ease;
@@ -1184,10 +1184,10 @@ a:hover{
 		transform: scale(0);
 	}
 	.team-block:hover .soc-button{
-		border-bottom: 1px solid #fa3f20;
+		border-bottom: 1px solid #d7233c;
 	}
 	.team-block:hover .name{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 	.team-block:hover .image-wrapper{
 		border-radius: 50%;
@@ -1252,7 +1252,7 @@ a:hover{
 		    width: 12px;
 		}
 		.team-slider .flex-control-nav a.flex-active {
-		    box-shadow: 0 0 0 12px #fa3f20 inset;
+		    box-shadow: 0 0 0 12px #d7233c inset;
 		}
 
 /*------ //TEAM ------*/
@@ -1312,7 +1312,7 @@ a:hover{
 		transition: all 0.3s ease;
 	}
 	.contact input:focus{
-		box-shadow: 0 0 0 2px #fa3f20 inset;
+		box-shadow: 0 0 0 2px #d7233c inset;
 	}
 	.contact textarea{
 		width: 100%;
@@ -1330,7 +1330,7 @@ a:hover{
 		transition: all 0.3s ease;
 	}
 	.contact textarea:focus{
-		box-shadow: 0 0 0 2px #fa3f20 inset;
+		box-shadow: 0 0 0 2px #d7233c inset;
 	}
 	.contact form .col-lg-6{
 		padding: 0 5px;
@@ -1400,7 +1400,7 @@ a:hover{
 		color: #ccc;
 	}
 	.soc-block .col-lg-2 a:hover{
-		color: #fa3f20;
+		color: #d7233c;
 	}
 .navbar-toggle{
 	border-radius: 0;
@@ -1410,7 +1410,7 @@ a:hover{
     background: #fff;
     border-radius: 50%;
     top: -25px;
-    color: #fa3f20;
+    color: #d7233c;
     font-size: 30px;
     height: 70px;
     left: 50%;
@@ -1428,7 +1428,7 @@ a:hover{
 	transition: all 0.3s ease;
 }
 .scroll-top:hover{
-	background: #fa3f20;
+	background: #d7233c;
 	line-height: 70px;
 	color: #fff;
 }
