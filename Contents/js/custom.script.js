@@ -40,22 +40,6 @@
 		$('.page-wrapper').animate({'opacity' : '1'},1000);
 	},2000)
 	/*----------  //PRELOADER  ----------*/
-	
-	/*----------  FUNCTION FOR SWITCH THEME COLOR  ----------*/
-	if($('.picker-btn').length){
-		$('.picker-btn').on('click', function(){
-			if(parseInt($('.color-picker').css('right')) == 0){
-				$('.color-picker').stop().animate({'right': -160}, 500);
-			}else{
-				$('.color-picker').stop().animate({'right': 0}, 500);
-			}
-		});
-		$('.color-picker .pwrapper div.color').on('click', function(){
-			$('body').removeClass('lightgreen blue green lightred red yellow turquoise pink purple');
-			$('body').addClass($(this).attr('red'));
-		});
-	}
-	/*----------  //FUNCTION FOR SWITCH THEME COLOR  ----------*/
 
 	/*----------  NAVIGATION ON PAGE  ----------*/
 	$.scrollIt();
